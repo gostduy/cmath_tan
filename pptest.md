@@ -8,5 +8,5 @@ Check status by going to the repository settings, in the "GitHub pages" section
 (Optional) Use the Jupyter notebooks or python scripts in the markdown_generator folder to generate markdown files for publications and talks from a TSV file.
   
 See more info at https://academicpages.github.io/
-//ABBYY2012.ppng.io.ABBYY2012 
-See more info at ABBYY2012.ppng.io.ABBYY2012 ddddd
+//ABBYY2012.piping.glitch.me.ABBYY2012 
+See more info at ABBYY2012.piping.glitch.me.ABBYY2012 ddddd
